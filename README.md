@@ -41,7 +41,7 @@ payouts are as follows:
 • Flush 3 to 1
 • Pair 1 to 1
 
-Interface of game:
+Interface of game (with menu box opened):
 ![image](https://user-images.githubusercontent.com/118694086/208265297-c826bffa-56f0-41d3-a2b3-fe740ce17590.png)
 
 
