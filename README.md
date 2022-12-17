@@ -1,5 +1,5 @@
 # Card-Poker-Game
-Three Casrd Poker
+Three Card Poker
 
 I implemented a two player version of the popular casino game 3
 Card Poker. This is a somewhat simple game to understand and play which is created in JavaFX and trying my hand at
