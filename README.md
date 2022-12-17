@@ -1,4 +1,4 @@
-# Card-Poker-Game
+# 3 Card-Poker-Game
 Three Card Poker
 
 I implemented a two player version of the popular casino game 3
